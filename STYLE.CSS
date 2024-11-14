@@ -1,0 +1,47 @@
+body{
+	background-image: url("flying.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+img{
+  border: 1px;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}
+
+p {
+	font-size: 20px;
+	text-align:center; 
+    font-family: Garamond; 
+    color: white
+
+}
+
+h1 {
+
+	font-size: 50px;
+	text-align:center; 
+    font-family: Garamond; 
+	color: #663399 ; 
+	border: 5px dashed;
+}
+
+h2{
+	text-align: left; 
+	color: #483d8b;
+	font-size: 30px;
+    font-family: Garamond;
+}
+
+h3{
+	color: #483d8b;
+	font-size: 30px;
+	font-family: Garamond;
+}
+
+.container{
+	padding: 10px;
+	color: white;
+}
